@@ -13,7 +13,16 @@
 ## 💻 Development Status  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450" alt="Programming Animation"/>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" alt="Anime Programming Animation"/>
+</p>
+
+---
+
+## ⏳ Countdown to Release  
+
+<p align="center">
+  <b>Estimated Release:</b> <br>
+  <img src="https://countdown.iconfactory.net/countdown?date=2025-09-07T00:00:00&label=BUGS-BOT%20V2%20Release" alt="Countdown Timer"/>
 </p>
 
 ---
